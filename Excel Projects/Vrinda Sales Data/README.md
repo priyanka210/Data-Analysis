@@ -23,6 +23,8 @@ Create an annual sales report for 2022. Provide suggestions on improvement for 2
 
 ## Data Analysis
 ### Charts in Dashboard
+<img width="1281" alt="image" src="https://github.com/priyanka210/Data-Analysis/assets/43488607/668cda18-dacf-4335-bb41-3701c44d66a3">
+
 
 ## Insights
 - Women are more likely to buy compared to men (~65%).
